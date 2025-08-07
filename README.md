@@ -124,7 +124,9 @@ Press 'q' to exit the video feed.
 **Potential Applications**
 
 **Security:** Verify identities in video calls or surveillance systems.
+
 **Media Authenticity:** Detect deepfakes in videos for journalism or social media platforms.
+
 **Digital Forensics:** Analyze visual evidence for authenticity in legal or investigative contexts.
 
 **Limitations**
@@ -144,7 +146,10 @@ Contributions are welcome! Please:
 **Ensure code follows PEP 8 guidelines and includes comments.**
 
 **Author**
+
 **Tariful Islam Tarif**
+
 **Data Scientist & AI Engineer**
+
 **Developed for research and educational purposes in deepfake detection.**
 
